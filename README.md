@@ -3,5 +3,10 @@ _JavaScript documentation_
 
 * Console.log
 ~~~javascript
-console.log("Hello World")
+console.log("Hello World");
+~~~
+
+* Alert
+~~~javascript
+alert("Hello world");
 ~~~
