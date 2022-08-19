@@ -17,3 +17,10 @@ var x = 'string'
 var y = 1 (number)
 var z = boolean (true or false)
 ~~~
+
+* Let
+~~~javascript
+let x = "string"
+let y = 5 (number)
+let z = true or false (boolean)
+~~~
