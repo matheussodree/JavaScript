@@ -13,7 +13,7 @@ alert("Hello world");
 
 * Var 
 ~~~javascript
-var x = 'string'
+var x = "string"
 var y = 1 (number)
 var z = boolean (true or false)
 ~~~
