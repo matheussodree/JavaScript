@@ -22,7 +22,7 @@ var z = boolean (true or false)
 ~~~javascript
 let x = "string"
 let y = 5 (number)
-let z = true or false (boolean)
+let z = boolean (true or false)
 ~~~
 
 * Const
