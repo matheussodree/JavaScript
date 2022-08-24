@@ -21,7 +21,7 @@ var z = boolean (true or false)
 * Let
 ~~~javascript
 let x = "string"
-let y = 5 (number)
+let y = 1 (number)
 let z = boolean (true or false)
 ~~~
 
