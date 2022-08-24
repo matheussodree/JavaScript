@@ -34,5 +34,5 @@ const z = boolean (true or false)
 
 * Template Strings
 ~~~javascript
-(`Hello ${var} World`)
+console.log(`Hello ${var} World`)
 ~~~
