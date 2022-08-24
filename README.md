@@ -31,3 +31,8 @@ const x = "string"
 const y = 1 (number)
 const z = boolean (true or false)
 ~~~
+
+* Template Strings
+~~~javascript
+(`Hello ${var} World`)
+~~~
