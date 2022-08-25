@@ -36,3 +36,15 @@ const z = boolean (true or false)
 ~~~javascript
 console.log(`Hello ${var} World`)
 ~~~
+
+* Comments in JavaScript
+
+/*
+
+ Hello World
+ 
+*/ 
+
+* Comments Inline
+
+// hello world
