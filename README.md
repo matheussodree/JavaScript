@@ -48,3 +48,14 @@ console.log(`Hello ${var} World`)
 * Comments Inline
 
 // hello world
+
+* If and Else commands
+~~~javascript
+if(condition){
+   "line of code"
+}else if(condition){
+   "line of code"
+}else{
+   "line of code"
+}
+~~~
