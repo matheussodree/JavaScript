@@ -59,3 +59,12 @@ if(condition){
    "line of code"
 }
 ~~~
+
+* Conditional Operators
+~~~javascript
+equal -> ==
+identical -> ===
+different -> !=
+not identical -> !==
+
+~~~
