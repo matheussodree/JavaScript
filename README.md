@@ -66,5 +66,9 @@ equal -> ==
 identical -> ===
 different -> !=
 not identical -> !==
-
+less than -> "<"
+bigger then -> ">"
+less or equal -> "<="
+bigger or equal -> ">="
 ~~~
+
