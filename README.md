@@ -72,8 +72,9 @@ less or equal -> "<="
 bigger or equal -> ">="
 ~~~
 
-* ParseInt or Parsefloat
+* parseInt or parseFloat
 ~~~javascript
 parseInt(); "Remove the fractional part of the number"
 parseFloat(); "Preserves the fractional part of the number"
+toString(); "Remove from type number and convert to string"
 ~~~
