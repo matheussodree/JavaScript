@@ -79,7 +79,7 @@ parseFloat(); "Preserves the fractional part of the number"
 toString(); "Remove from type number and convert to string"
 ~~~
 
-* document.querySelector
+* querySelector
 ~~~javascript
 document.querySelector("h1" or " .class " or " #id ");
 ~~~
