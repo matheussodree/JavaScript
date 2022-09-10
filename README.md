@@ -78,3 +78,8 @@ parseInt(); "Remove the fractional part of the number"
 parseFloat(); "Preserves the fractional part of the number"
 toString(); "Remove from type number and convert to string"
 ~~~
+
+* document.querySelector
+~~~javascript
+document.querySelector("h1" or " .class " or " #id ");
+~~~
