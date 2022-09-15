@@ -86,7 +86,7 @@ document.querySelector("h1" or " .class " or " #id ");
 
 * Logical operators
 ~~~javascript
-And( && ) -->
-Or( || ) -->
-Negation ( ! ) -->
+And( && ) --> true if all expressions are true
+Or( || ) --> true if at least one of the expressions is true
+Negation ( ! ) --> inverts the result of the comparison expression
 ~~~
