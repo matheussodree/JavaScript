@@ -83,3 +83,10 @@ toString(); "Remove from type number and convert to string"
 ~~~javascript
 document.querySelector("h1" or " .class " or " #id ");
 ~~~
+
+* Logical operators
+~~~javascript
+And( && ) -->
+Or( || ) -->
+Negation ( ! ) -->
+~~~
