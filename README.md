@@ -90,3 +90,22 @@ And( && ) --> true if all expressions are true
 Or( || ) --> true if at least one of the expressions is true
 Negation ( ! ) --> inverts the result of the comparison expression
 ~~~
+
+* Switch command
+~~~javascript
+meets identical parameters:
+
+switch(option){
+
+case 1 :
+     code
+break
+
+case 2 :
+     code
+break
+
+default :
+    code
+}
+~~~
