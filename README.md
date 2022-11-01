@@ -109,3 +109,12 @@ default :
     code
 }
 ~~~
+
+* Arithmetic operators
+~~~javascript
+addition --> "+"
+subtraction --> " - "
+multiplication --> " * "
+division --> " / "
+module --> " % " is the existing remainder of a division operation
+~~~
