@@ -123,5 +123,11 @@ module --> " % " is the existing remainder of a division operation
 ~~~javascript
 
 Encapsulate a block of code with a defined purpose
+ex:
+function calculateGroundArea(width, length){
+   var area = width * lenght
+   
+   return area
+}
 
 ~~~
