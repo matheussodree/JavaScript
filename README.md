@@ -118,3 +118,10 @@ multiplication --> " * "
 division --> " / "
 module --> " % " is the existing remainder of a division operation
 ~~~
+
+* Fuctions 
+~~~javascript
+
+Encapsulate a block of code with a defined purpose
+
+~~~
