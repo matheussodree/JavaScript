@@ -151,4 +151,13 @@ var arr = [1,2,3,4];
 var arr = new Array(4);
 // This way we create an empty 4-position array.
 
+To access the variables inside an array, 
+just use the name of the array and the index of the variable you want to access.
+
+Example:
+arr[0] = "Goodbye and thanks for the fish";
+arr[1] = 42;
+document.write(arr[1]);
+//print the content of arr[1]
+
 ~~~
