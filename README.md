@@ -131,3 +131,24 @@ function calculateGroundArea(width, length){
 }
 
 ~~~
+
+* Arrays
+~~~javascript
+
+In JavaScript, Arrays are objects with their own methods.
+An Array object is used to store a collection of items in a single variable.
+
+Example:
+var arr = new Array();
+// Because it is an object we can use "new" in its creation
+
+var arr = new Array(elem1,elem2, ... ,elemN);
+// This way we create an array already started with elements.
+
+var arr = [1,2,3,4];
+// another way is to start an array with elements without using "new".
+
+var arr = new Array(4);
+// This way we create an empty 4-position array.
+
+~~~
