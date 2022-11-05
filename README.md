@@ -135,8 +135,19 @@ document.write(arr[1]);
 ~~~
 
 * Operators
-~~~javascript
 
 In this section we will list the main operators that make up the core of the JavaScript language
+~~~javascript
+
+Arithmetic
+Operator| Operation       | Example
+   +    | addition        | x+y
+   -    | subtraction     | x-y
+   *    | multiplication  | x*y
+   /    | division        | x/y
+   %    | Modulus         | x%y
+   -    | Sign inversion  | -x
+  ++    | Increment       | x++ or ++x
+  --    | Decrement       | x-- or --x
 
 ~~~
