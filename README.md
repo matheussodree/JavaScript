@@ -150,4 +150,5 @@ Operator| Operation       | Example
   ++    | Increment       | x++ or ++x
   --    | Decrement       | x-- or --x
 
+obs: Modulus (remainder of integer division)
 ~~~
