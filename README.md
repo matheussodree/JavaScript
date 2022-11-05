@@ -60,18 +60,6 @@ if(condition){
 }
 ~~~
 
-* Conditional Operators
-~~~javascript
-equal -> ==
-identical -> ===
-different -> !=
-not identical -> !==
-less than -> "<"
-bigger then -> ">"
-less or equal -> "<="
-bigger or equal -> ">="
-~~~
-
 * parseInt or parseFloat
 ~~~javascript
 parseInt(); "Remove the fractional part of the number"
@@ -82,13 +70,6 @@ toString(); "Remove from type number and convert to string"
 * querySelector
 ~~~javascript
 document.querySelector("h1" or " .class " or " #id ");
-~~~
-
-* Logical operators
-~~~javascript
-And( && ) --> true if all expressions are true
-Or( || ) --> true if at least one of the expressions is true
-Negation ( ! ) --> inverts the result of the comparison expression
 ~~~
 
 * Switch command
@@ -108,15 +89,6 @@ break
 default :
     code
 }
-~~~
-
-* Arithmetic operators
-~~~javascript
-addition --> "+"
-subtraction --> " - "
-multiplication --> " * "
-division --> " / "
-module --> " % " is the existing remainder of a division operation
 ~~~
 
 * Fuctions 
@@ -159,5 +131,12 @@ arr[0] = "Goodbye and thanks for the fish";
 arr[1] = 42;
 document.write(arr[1]);
 //print the content of arr[1]
+
+~~~
+
+* Operators
+~~~javascript
+
+In this section we will list the main operators that make up the core of the JavaScript language
 
 ~~~
