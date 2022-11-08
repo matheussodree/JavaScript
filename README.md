@@ -173,9 +173,9 @@ Operator | Function       | Example
 Bit by bit
 
 Operator | Operation | Example
-   &     |E (AND) (x & y)
-   |     |OR (OR) (x | y)
-   ˆ     | Exclusive Or (XOR) (x ˆ y)
-   ˜     | Negation (NOT) ˜x
+   &     |  E (AND)  | (x & y)
+   |     |  OR (OR)  | (x | y)
+   ˆ     | Exclusive Or (XOR) | (x ˆ y)
+   ˜     | Negation (NOT) | ˜x
 
 ~~~
