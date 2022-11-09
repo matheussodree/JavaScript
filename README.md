@@ -159,23 +159,24 @@ Comparation
 Operator | Function       | Example
    ==    | Equal to       | (x == y)
    !=    | Not equal to   | (x != y)
-   ===   | Identical to (equal and of the same type) | (x === y)
+   ===   | Identical to   | (x === y)
    !==   | Not Identical to |(x !== y)
-   >     | Greater than     |(x > y)
+   >     | Greater than   |(x > y)
    >=    | Greater than or equal to |(x >= y)
    <     | Less than      | (x < y)
    <=    | Less than or equal to | (x <= y)
 
+obs: identical = (equal and of the same type)
 ~~~
 
 ~~~javascript
 
 Bit by bit
 
-Operator | Operation | Example
-   &     |  E (AND)  | (x & y)
-   |     |  OR (OR)  | (x | y)
+Operator |      Operation     | Example
+   &     |      E (AND)       | (x & y)
+   |     |      OR (OR)       | (x | y)
    ˆ     | Exclusive Or (XOR) | (x ˆ y)
-   ˜     | Negation (NOT) | ˜x
+   ˜     |    Negation (NOT)  | ˜x
 
 ~~~
