@@ -184,18 +184,18 @@ Operator |      Operation     | Example
 ~~~javascript
 
 Assignment
-Operator | Example | Equivalent
-= x = 2 does not have
-+= x += y x = x + y
--= x -= y x = x - y
-*= x *= y x = x * y
-/= x /= y x = x / y
-%= x %= y x = x % y
-&= x &= y x = x & y
-|= x |= y x = x | and
-ˆ= x ˆ= y x = x ˆ y
->>= x >>= y x = x >>= y
-<<= x <<= y x = x <<= y
->>>= x >>>= y x = x >>>= y
+Operator | Example   | Equivalent
+   =     |  x = 2    | does not have
+  +=     |  x +=     | y x = x + y
+  -=     |  x -= y   | x = x - y
+  *=     |  x *= y   | x = x * y
+  /=     |  x /= y   | x = x / y
+  %=     |  x %= y   | x = x % y
+  &=     |  x &= y   | x = x & y
+  |=     |  x |= y   | x = x | and
+  ˆ=     |  x ˆ= y   | x = x ˆ y
+ >>=     |  x >>= y  | x = x >>= y
+ <<=     |  x <<= y  | x = x <<= y
+>>>=     |  x >>>= y | x = x >>>= y
 
 ~~~
