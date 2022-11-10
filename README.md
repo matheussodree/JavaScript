@@ -203,9 +203,9 @@ Operator | Example   | Equivalent
 ~~~javascript
 
 logical
-Operator Function Example
-&& Logical E (x && y)
-|| Logical OR (x || y)
-! Logical negation !x
+Operator |     Function     |  Example
+  &&     |    Logical AND   |  (x && y)
+  ||     |    Logical OR    |  (x || y)
+  !      | Logical negation |    !x
 
 ~~~
