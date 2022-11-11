@@ -209,3 +209,60 @@ Operator |     Function     |  Example
   !      | Logical negation |    !x
 
 ~~~
+
+* Control Structures
+
+if ... else Structure
+
+~~~javascript
+ 
+The if structure is used when you want to check whether a certain expression 
+is true or not, and execute specific commands for each case.
+
+if ... else structure
+The if structure is used when you want to check whether a certain expression is true or not, and execute specific commands for each case.
+
+Example 1
+
+var a = 12;
+var b = 5;
+if (a == b) {
+window.alert("12 equals 5?!?!");
+} else {
+window.alert("a is different from b");
+}
+// In the above case the written sentence would be "a is different from b"
+
+Example 2
+
+It is also possible to cluster more tests using the else if command
+
+var a = 10;
+if (a < 6) {
+window.alert("less than 6");
+} else if (a > 6) {
+window.alert("greater than 6");
+} else {
+window.alert("if a is neither greater nor less than 6, a is 6!");
+}
+
+Example 3
+
+Another possible way of using the " if " is with its abbreviated form as in the C language, 
+using the ternary operator " ? " .
+It can create simple decision structures in just one command line, however, 
+this can often impair the clarity of your code, making it difficult to understand 
+for someone unfamiliar with using this conditional operator.
+
+var a = 8;
+
+(a >= 5 ? window.alert("yes") : window.alert("no"));
+
+// This is equivalent to the code:
+var a = 5;
+if (a >= 5) {
+window.alert("yes");
+} else {
+window.alert("no");
+}
+~~~
