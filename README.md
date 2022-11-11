@@ -220,7 +220,8 @@ The if structure is used when you want to check whether a certain expression
 is true or not, and execute specific commands for each case.
 
 if ... else structure
-The if structure is used when you want to check whether a certain expression is true or not, and execute specific commands for each case.
+The if structure is used when you want to check whether a certain expression is true or not, 
+and execute specific commands for each case.
 
 Example 1
 
