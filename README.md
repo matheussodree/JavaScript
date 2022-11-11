@@ -156,15 +156,15 @@ obs: Modulus (remainder of integer division)
 ~~~javascript
 
 Comparation
-Operator | Function       | Example
-   ==    | Equal to       | (x == y)
-   !=    | Not equal to   | (x != y)
-   ===   | Identical to   | (x === y)
-   !==   | Not Identical to |(x !== y)
-   >     | Greater than   |(x > y)
-   >=    | Greater than or equal to |(x >= y)
-   <     | Less than      | (x < y)
-   <=    | Less than or equal to | (x <= y)
+Operator |         Function         | Example
+   ==    |         Equal to         | (x == y)
+   !=    |       Not equal to       | (x != y)
+   ===   |       Identical to       | (x === y)
+   !==   |     Not Identical to     | (x !== y)
+   >     |      Greater than        | (x > y)
+   >=    | Greater than or equal to | (x >= y)
+   <     |        Less than         | (x < y)
+   <=    |   Less than or equal to  | (x <= y)
 
 obs: identical = (equal and of the same type)
 ~~~
