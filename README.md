@@ -281,4 +281,20 @@ will be executed when none of the others are.
 
 Example : 
 
+var marvin = "robot";
+switch(marvin) {
+   case "human":
+      document.write("hello carbon unit!");
+   break;
+   case "alien":
+      document.write("brrr I hate aliens!");
+   break;
+   case "robot":
+      document.write("emergency, to the rescue!");
+   break;
+   default:
+      document.write("what are you?");
+   break;
+}
+
 ~~~
