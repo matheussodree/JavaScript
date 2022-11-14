@@ -267,3 +267,18 @@ window.alert("yes");
 window.alert("no");
 }
 ~~~
+
+Switch ... case
+~~~javascript
+Switch structures are used when we want to select an option among several available.
+Unlike other languages, comparison values can be strings in addition to numeric values.
+
+The break statement causes the switch to stop checking the other possibilities below 
+and can be omitted if you want a structure that will make more than one option true.
+
+Finally, default is optional and corresponds to a sequence of commands that 
+will be executed when none of the others are.
+
+Example : 
+
+~~~
