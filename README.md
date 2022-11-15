@@ -307,4 +307,12 @@ and then the loop contents are executed or not.
 
 Example:
 
+var count = [5,2];
+while (( count[0]+count[1] ) < 15) {
+  count[0]+=1;
+  count[1]+=2;
+  document.write(’cont0 = ’ +cont[0]+ ’cont1 = ’+cont[1]);
+}
+// With the use of while, in the first test, cont[0]+cont[1] is equal to 7;
+
 ~~~
