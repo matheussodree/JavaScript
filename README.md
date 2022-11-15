@@ -298,3 +298,13 @@ switch(marvin) {
 }
 
 ~~~
+While command
+~~~javascript
+
+While loops are used when you want a sequence of actions to be executed only 
+if the condition expression is valid. Thus, first the expression is tested, 
+and then the loop contents are executed or not.
+
+Example:
+
+~~~
