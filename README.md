@@ -325,6 +325,17 @@ Unlike the while, the "do ... while" first executes the contents of the loop
 once, and after that it performs the expression test to decide whether to continue
 executing the loop or will the rest of the program follow
 
+Example:
 
+var count = [5,2];
+ do{
+   count[0]+=1;
+   count[1]+=2;
+   document.write(’cont0 = ’+cont[0]+’cont1 = ’+cont[1]);
+ } while ((count[0]+count[1]) < 15)
+
+// Using do...while, in the first test, cont[0]+cont[1]
+// will already be worth 10, and the counters will have already been printed once
+// because the loop was already executed the first time before the test!
 
 ~~~
