@@ -316,3 +316,15 @@ while (( count[0]+count[1] ) < 15) {
 // With the use of while, in the first test, cont[0]+cont[1] is equal to 7;
 
 ~~~
+
+Do ... while command
+
+~~~javascript
+
+Unlike the while, the "do ... while" first executes the contents of the loop
+once, and after that it performs the expression test to decide whether to continue
+executing the loop or will the rest of the program follow
+
+
+
+~~~
