@@ -339,3 +339,14 @@ var count = [5,2];
 // because the loop was already executed the first time before the test!
 
 ~~~
+for command
+~~~javascript
+
+Most of the time, when using a while loop, we also construct
+a structure with a counter that is incremented at each step to
+loop control and internal manipulation of objects, arrays as in the examples
+previous.
+For loops offer the advantage of already having in their structure
+this counter variable and implicitly increment it.
+
+~~~
