@@ -349,4 +349,15 @@ previous.
 For loops offer the advantage of already having in their structure
 this counter variable and implicitly increment it.
 
+Example:
+
+var count = [5,2,3];
+  for(var i=0 ; i < 3 ; i++) {
+  cont[i]++;
+  }
+
+// At the end of the loop, each element of the vector count was incremented by 1
+
+The meaning of the "for" command is:
+(initialized counter variable ; condition of stop; counter variable increment).
 ~~~
