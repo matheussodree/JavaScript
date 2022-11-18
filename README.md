@@ -361,3 +361,10 @@ var count = [5,2,3];
 The meaning of the "for" command is:
 (initialized counter variable ; condition of stop; counter variable increment).
 ~~~
+
+* Functions 
+~~~javascript
+
+
+
+~~~
