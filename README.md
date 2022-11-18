@@ -365,6 +365,8 @@ The meaning of the "for" command is:
 * Functions 
 ~~~javascript
 
-
+Functions play a very important role in structural programming because
+fact that it helps a lot in the modularization of the program, that is, it enables the division
+of the program into smaller, logically related parts
 
 ~~~
