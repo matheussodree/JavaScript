@@ -38,17 +38,17 @@ console.log(`Hello ${var} World`)
 ~~~
 
 * Comments in JavaScript
-
+~~~javascript
 /*
 
  Hello World
  
 */ 
-
+~~~ 
 * Comments Inline
-
+~~~javascript
 // hello world
-
+~~~
 * If and Else commands
 ~~~javascript
 if(condition){
