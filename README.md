@@ -369,4 +369,14 @@ Functions play a very important role in structural programming because
 fact that it helps a lot in the modularization of the program, that is, it enables the division
 of the program into smaller, logically related parts
 
+Example : 
+
+function incArray(array,value) {
+  for(item in array) {
+  array[item]+=value;
+}
+return array;
+}
+// To invoke this function later just use incArray(argument1,argument2)
+
 ~~~
