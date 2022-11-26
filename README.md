@@ -380,3 +380,11 @@ return array;
 // To invoke this function later just use incArray(argument1,argument2)
 
 ~~~
+
+* The Function() constructor
+~~~javascript
+
+The second way to declare a function is using the Function() constructor and the new operator,
+because in JavaScript functions and objects are interconnected
+
+~~~
