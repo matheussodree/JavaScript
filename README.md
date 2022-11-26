@@ -387,4 +387,11 @@ return array;
 The second way to declare a function is using the Function() constructor and the new operator,
 because in JavaScript functions and objects are interconnected
 
+Example:
+
+var areaTri = new Function("b", "h" , "return (b*h)/2" );
+
+// the above function calculates the area of a triangle given its base height.
+// To invoke it just use areaTri(arg1,arg2)
+
 ~~~
