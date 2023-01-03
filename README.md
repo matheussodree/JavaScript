@@ -395,3 +395,13 @@ var areaTri = new Function("b", "h" , "return (b*h)/2" );
 // To invoke it just use areaTri(arg1,arg2)
 
 ~~~
+
+* Objects
+~~~javascript
+
+Unlike a variable, an object can contain several values of different types stored in it (attributes)
+and also have functions that operate on these values (methods).
+Both attributes and methods are called of object properties.
+To create an object is very simple, just invoke its constructor through the new operator.
+
+~~~
