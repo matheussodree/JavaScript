@@ -404,4 +404,9 @@ and also have functions that operate on these values (methods).
 Both attributes and methods are called of object properties.
 To create an object is very simple, just invoke its constructor through the new operator.
 
+Example:
+
+var object = new Object();
+
+// When we use the Object() constructor we create an object generic
 ~~~
