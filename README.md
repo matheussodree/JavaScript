@@ -406,7 +406,25 @@ To create an object is very simple, just invoke its constructor through the new 
 
 Example:
 
-var object = new Object();
+    var object = new Object();
 
 // When we use the Object() constructor we create an object generic
+~~~
+
+* Objects 2
+~~~javascript
+
+Another way to create an object is through literals.
+
+Example:
+    
+    var ship = {
+    name: "heart of gold",
+    propulsion: "Infinite Improbability Generator",
+    owner: "Zaphod Bebblebrox"
+    }
+    
+// In this way, the ship object was created having the attributes
+// name, propulsion and owner with their respective values
+
 ~~~
